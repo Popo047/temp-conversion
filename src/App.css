@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url("https://wallpaperaccess.com/full/885188.png");
+  background-position: center;
+  height: 100vh;
 }
 
 .App-logo {
